@@ -65,3 +65,5 @@ This conditional GAN can still work without dropout but the outputs will be more
 
 I have uploaded the colab file along with this file. I have trained the outputs and have written everything systematically in the notebook.
 Colab file is open with private outputs because when I first trained the model it was fine but the second time when I tried it from start it was giving some errors , so I decided to set it with private outputs. 
+
+I have also uploaded stepwise codes in case file is too large
